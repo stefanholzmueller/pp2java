@@ -1,0 +1,87 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>twel</groupId>
+		<artifactId>probenprophet</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+	</parent>
+	<groupId>twel</groupId>
+	<artifactId>probenprophet-jar</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	</properties>
+
+	<dependencies>
+		<dependency>
+			<groupId>org.jboss.weld</groupId>
+			<artifactId>weld-se</artifactId>
+			<version>1.0.1-Final</version>
+		</dependency>
+		<dependency>
+			<groupId>org.jboss.weld</groupId>
+			<artifactId>weld-logger</artifactId>
+			<version>1.0.0-CR2</version>
+		</dependency>
+		
+		<dependency>
+			<groupId>twel</groupId>
+			<artifactId>probenprophet-base</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>twel</groupId>
+			<artifactId>probenprophet-view</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+	</dependencies>
+
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-jar-plugin</artifactId>
+				<configuration>
+					<archive>
+						<manifest>
+							<mainClass>org.jboss.weld.environment.se.StartMain</mainClass>
+						</manifest>
+					</archive>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
+
+	<profiles>
+		<profile>
+			<id>run</id>
+			<activation>
+				<property>
+					<name>run</name>
+				</property>
+			</activation>
+			<build>
+				<plugins>
+					<plugin>
+						<executions>
+							<execution>
+								<id>run</id>
+								<phase>package</phase>
+								<goals>
+									<goal>java</goal>
+								</goals>
+							</execution>
+						</executions>
+						<groupId>org.codehaus.mojo</groupId>
+						<artifactId>exec-maven-plugin</artifactId>
+						<configuration>
+							<mainClass>org.jboss.weld.environment.se.StartMain</mainClass>
+						</configuration>
+					</plugin>
+				</plugins>
+			</build>
+		</profile>
+	</profiles>
+</project>

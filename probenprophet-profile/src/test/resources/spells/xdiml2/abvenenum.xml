@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<XDIML lang="de" version="2.0">
+	<Inhalt>
+		<Zaubersprüche>
+			<Zauber ID="Abvenenum reine Speise">
+				<Probe>KL/KL/FF</Probe>
+				<Komplexität>C</Komplexität>
+				<Merkmale>
+					<Merkmal>Objekt</Merkmal>
+				</Merkmale>
+				<Varianten>
+					<Variante>Zauberdauer</Variante>
+					<Variante>Reichweite</Variante>
+					<Variante>Schutz vor Übelkeit</Variante>
+					<Variante>Schutz vor Vergiftung</Variante>
+				</Varianten>
+			</Zauber>
+		</Zaubersprüche>
+	</Inhalt>
+</XDIML>

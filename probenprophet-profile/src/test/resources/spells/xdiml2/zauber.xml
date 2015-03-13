@@ -1,0 +1,3901 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<XDIML lang="de" version="2.0">
+<Inhalt>
+<Zaubersprüche>
+<Zauber ID="Abvenenum reine Speise">
+<Probe>KL/KL/FF</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Objekt</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Schutz vor Übelkeit</Variante>
+<Variante>Schutz vor Vergiftung</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Accuratum Zaubernadel">
+<Probe>KL/CH/FF</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Objekt</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Nadel des Wanderers</Variante>
+<Variante>Ohne Schere</Variante>
+<Variante>Haltbarkeit</Variante>
+<Variante>Webstuhl</Variante>
+<Variante>Sackleinen und Spinnenseide</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Adamantium Erzstruktur">
+<Probe>KL/FF/KO</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Objekt</Merkmal>
+<Merkmal>Elementar (Erz)</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Adamantenquader</Variante>
+<Variante>Zauberstahl</Variante>
+<Variante>Kristallglanz</Variante>
+<Variante>Struktur wahren</Variante>
+<Variante>Permanenz</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Adlerauge Luchsenohr">
+<Probe>KL/IN/FF</Probe>
+<Komplexität>B</Komplexität>
+<Merkmale>
+<Merkmal>Hellsicht</Merkmal>
+<Merkmal>Eigenschaften</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Einzelsinn schärfen</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Adlerschwinge Wolfsgestalt">
+<Probe>MU/IN/GE</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Form</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Kosten</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Bewusste Gestalt</Variante>
+<Variante>Grenzenlose Gestalt</Variante>
+<Variante>Haut des Seelentiers</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Aeolitus Windgebraus">
+<Probe>KL/CH/KO</Probe>
+<Komplexität>B</Komplexität>
+<Merkmale>
+<Merkmal>Elementar (Luft)</Merkmal>
+<Merkmal>Umwelt</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Langer Atem</Variante>
+<Variante>Sturm</Variante>
+<Variante>Übler Gestank</Variante>
+<Variante>Lieblicher Duft</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Aerofugo Vakuum">
+<Probe>MU/KO/KK</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Elementar (Luft)</Merkmal>
+<Merkmal>Umwelt</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Aerogelo Atemqual">
+<Probe>MU/IN/KO</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Elementar (Luft)</Merkmal>
+<Merkmal>Umwelt</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Wirkungsdauer</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Alpgestalt">
+<Probe>MU/CH/GE</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Einfluss</Merkmal>
+<Merkmal>Herrschaft</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Kosten</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Fremdgestalt</Variante>
+<Variante>Alpdrücken</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Analys Arcanstruktur">
+<Probe>KL/KL/IN</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Hellsicht</Merkmal>
+<Merkmal>Metamagie</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Ängste lindern">
+<Probe>MU/IN/CH</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Einfluss</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Gegenzauber</Variante>
+<Variante>Seele beruhigen</Variante>
+<Variante>Tiere besänftigen</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Animatio stummer Diener">
+<Probe>KL/FF/GE</Probe>
+<Komplexität>E</Komplexität>
+<Merkmale>
+<Merkmal>Telekinese</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Kosten</Variante>
+<Variante>Tagelöhner</Variante>
+<Variante>Mehrere Objekte</Variante>
+<Variante>Geworfenes Objekt</Variante>
+<Variante>Knechtschaft</Variante>
+<Variante>Ad Infinitum, ad Nauseam</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Applicatus Zauberspeicher">
+<Probe>KL/FF/FF</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Objekt</Merkmal>
+<Merkmal>Metamagie</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Tragbare Falle</Variante>
+<Variante>Hauswächter</Variante>
+<Variante>Komplexer Auslöser</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Arachnea Krabbeltier">
+<Probe>MU/IN/CH</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Herbeirufung</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Dauerfliegenfalle</Variante>
+<Variante>Schmetterlingssammler</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Arcanovi Artefakt">
+<Probe>KL/KL/FF</Probe>
+<Komplexität>E</Komplexität>
+<Merkmale>
+<Merkmal>Metamagie</Merkmal>
+<Merkmal>Objekt</Merkmal>
+</Merkmale>
+</Zauber>
+<Zauber ID="Armatrutz">
+<Probe>IN/GE/KO</Probe>
+<Komplexität>B</Komplexität>
+<Merkmale>
+<Merkmal>Eigenschaften</Merkmal>
+<Merkmal>Elementar (Erz)</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Körperschild</Variante>
+<Variante>Kraft des Fakirs</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Atemnot">
+<Probe>MU/KO/KK</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Eigenschaften</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Kosten</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Attributo">
+<Probe>KL/CH/KL</Probe>
+<Komplexität>B</Komplexität>
+<Merkmale>
+<Merkmal>Eigenschaften</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Mut</Variante>
+<Variante>Klugheit</Variante>
+<Variante>Intuition</Variante>
+<Variante>Charisma</Variante>
+<Variante>Gewandtheit</Variante>
+<Variante>Fingerfertigkeit</Variante>
+<Variante>Konstitution</Variante>
+<Variante>Körperkraft</Variante>
+<Variante>Schnellsteigerung</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Aufgeblasen Abgehoben">
+<Probe>CH/KO/KK</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Form</Merkmal>
+<Merkmal>Elementar (Luft)</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Flughöhe begrenzen</Variante>
+<Variante>Fesselballon</Variante>
+<Variante>Tierballon</Variante>
+<Variante>Kunstflug</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Auge des Limbus">
+<Probe>MU/KO/KK</Probe>
+<Komplexität>E</Komplexität>
+<Merkmale>
+<Merkmal>Limbus</Merkmal>
+<Merkmal>Kraft</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Tor in die Niederhöllen</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Aureolus Güldenglanz">
+<Probe>IN/CH/FF</Probe>
+<Komplexität>A</Komplexität>
+<Merkmale>
+<Merkmal>Illusion</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Farbenglanz</Variante>
+<Variante>Muster</Variante>
+<Variante>Wasserfläche</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Auris Nasus Oculus">
+<Probe>KL/CH/FF</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Illusion</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Verpuffung</Variante>
+<Variante>Außer Sicht</Variante>
+<Variante>Entfernte Phantasmagorie</Variante>
+<Variante>Bewegte Bilder</Variante>
+<Variante>Selbstleuchtend</Variante>
+<Variante>Geschmack</Variante>
+<Variante>Tastsinn</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Axxeleratus Blitzgeschwind">
+<Probe>KL/GE/KO</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Eigenschaften</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Blitzgeschwind</Variante>
+<Variante>Koboldisch</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Balsam Salabunde">
+<Probe>KL/IN/CH</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Heilung</Merkmal>
+<Merkmal>Form</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Lebenskraft stärken</Variante>
+<Variante>Sofortige Regeneration</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Band und Fessel">
+<Probe>KL/CH/KK</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Einfluss</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zielobjekt</Variante>
+<Variante>Ausgewählte Zielobjekte</Variante>
+<Variante>Bindung in endloser Höhe</Variante>
+<Variante>Bannen durch einen Blick</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Bannbaladin">
+<Probe>IN/CH/CH</Probe>
+<Komplexität>B</Komplexität>
+<Merkmale>
+<Merkmal>Einfluss</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Gemeinsame Erinnerungen</Variante>
+<Variante>Keine Erinnerung</Variante>
+<Variante>Tierfreund</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Beherrschung brechen">
+<Probe>KL/IN/CH</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Antimagie</Merkmal>
+<Merkmal>Herrschaft</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Zone</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Beschwörung vereiteln">
+<Probe>MU/IN/CH</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Antimagie</Merkmal>
+<Merkmal>Beschwörung</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Zone</Variante>
+<Variante>Dauernder Bann</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Bewegung stören">
+<Probe>KL/IN/FF</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Antimagie</Merkmal>
+<Merkmal>Telekinese</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Zone</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Blendwerk">
+<Probe>IN/CH/GE</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Illusion</Merkmal>
+</Merkmale>
+</Zauber>
+<Zauber ID="Blick aufs Wesen">
+<Probe>KL/IN/CH</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Hellsicht</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Leuchtende Persönlichkeit</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Blick durch fremde Augen">
+<Probe>MU/IN/CH</Probe>
+<Komplexität>E</Komplexität>
+<Merkmale>
+<Merkmal>Hellsicht</Merkmal>
+<Merkmal>Verständigung</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Fremde Sinne</Variante>
+<Variante>Mehrere Sinne</Variante>
+<Variante>Fremder Zauber</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Blick in die Gedanken">
+<Probe>KL/KL/CH</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Hellsicht</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Keine Sicht</Variante>
+<Variante>Traumreise</Variante>
+<Variante>Kampfsinn</Variante>
+<Variante>Tiefentelepathie</Variante>
+<Variante>Drachisch</Variante>
+<Variante>Liebessinn</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Blick in die Vergangenheit">
+<Probe>KL/KL/IN</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Hellsicht</Merkmal>
+<Merkmal>Temporal</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Kosten</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Blitz dich find">
+<Probe>KL/IN/GE</Probe>
+<Komplexität>B</Komplexität>
+<Merkmale>
+<Merkmal>Einfluss</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zielobjekt</Variante>
+<Variante>Reichweite</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Brenne, toter Stoff!">
+<Probe>MU/KL/KO</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Objekt</Merkmal>
+<Merkmal>Elementar (Feuer)</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Drachenglut</Variante>
+<Variante>Flammeninferno</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Bärenruhe Winterschlaf">
+<Probe>MU/KK/KO</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Form</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Tiere verzaubern</Variante>
+<Variante>Der lange Schlaf</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Böser Blick">
+<Probe>MU/CH/CH</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Einfluss</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Kosten</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Hass</Variante>
+<Variante>Wahn</Variante>
+<Variante>Zweifel</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Caldofrigo heiß und kalt">
+<Probe>IN/CH/KO</Probe>
+<Komplexität>E</Komplexität>
+<Merkmale>
+<Merkmal>Objekt</Merkmal>
+<Merkmal>Umwelt</Merkmal>
+<Merkmal>Elementar (Feuer)</Merkmal>
+<Merkmal>Elementar (Eis)</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Zone</Variante>
+<Variante>Zonenzentrum</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Chamaelioni Mimikry">
+<Probe>IN/CH/GE</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Illusion</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Tarnung</Variante>
+<Variante>Verschwimmende Tarnung</Variante>
+<Variante>Andere Tarnen</Variante>
+<Variante>Dinge Tarnen</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Chimaeroform Hybridgestalt">
+<Probe>KL/IN/KO</Probe>
+<Komplexität>F</Komplexität>
+<Merkmale>
+<Merkmal>Dämonisch (Asfaloth)</Merkmal>
+<Merkmal>Form</Merkmal>
+</Merkmale>
+</Zauber>
+<Zauber ID="Chronoklassis Urfossil">
+<Probe>KL/IN/KO</Probe>
+<Komplexität>F</Komplexität>
+<Merkmale>
+<Merkmal>Herbeirufung</Merkmal>
+<Merkmal>Temporal</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Rückkehr in den Ausgangszustand</Variante>
+<Variante>Permanenz</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Chrononautos Zeitenfahrt">
+<Probe>MU/CH/KO</Probe>
+<Komplexität>F</Komplexität>
+<Merkmale>
+<Merkmal>Temporal</Merkmal>
+</Merkmale>
+</Zauber>
+<Zauber ID="Claudibus Clavistibor">
+<Probe>KL/FF/KK</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Objekt</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Aktive Versiegelung</Variante>
+<Variante>Schlüsselmeister</Variante>
+<Variante>Die Priesterkaiser kommen!</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Corpofesso Gliederschmerz">
+<Probe>KL/KO/KK</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Eigenschaften</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Kosten</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Corpofrigo Kälteschock">
+<Probe>CH/GE/KO</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Eigenschaften</Merkmal>
+<Merkmal>Elementar (Eis)</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Kosten</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Eisblock</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Cryptographo Zauberschrift">
+<Probe>KL/KL/IN</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Objekt</Merkmal>
+<Merkmal>Verständigung</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Unlesbares Buch</Variante>
+<Variante>Schreibmaterial</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Custodosigil Diebesbann">
+<Probe>KL/FF/FF</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Objekt</Merkmal>
+<Merkmal>Metamagie</Merkmal>
+<Merkmal>Elementar (Feuer)</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Personalisierung</Variante>
+<Variante>Permanenz</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Delicioso Gaumenschmaus">
+<Probe>KL/CH/FF</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Illusion</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Aromenvielfalt</Variante>
+<Variante>Sättigung</Variante>
+<Variante>Widerwärtiger Geschmack</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Desintegratus Pulverstaub">
+<Probe>KL/KO/KK</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Objekt</Merkmal>
+<Merkmal>Schaden</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Hand der Vernichtung</Variante>
+<Variante>Kegelform</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Destructibo Arcanitas">
+<Probe>KL/KL/FF</Probe>
+<Komplexität>E</Komplexität>
+<Merkmale>
+<Merkmal>Antimagie</Merkmal>
+<Merkmal>Metamagie</Merkmal>
+<Merkmal>Kraft</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Astralkörper abbauen</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Dichter und Denker">
+<Probe>KL/IN/CH</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Herrschaft</Merkmal>
+</Merkmale>
+</Zauber>
+<Zauber ID="Dschinnenruf">
+<Probe>MU/KL/CH</Probe>
+<Komplexität>E</Komplexität>
+<Merkmale>
+<Merkmal>Elementar</Merkmal>
+<Merkmal>Herbeirufung</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Kosten</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Dunkelheit">
+<Probe>KL/KL/FF</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Umwelt</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Bewegliche Dunkelheit</Variante>
+<Variante>Schwarzer Zylinder</Variante>
+<Variante>Schwarzer Raum</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Duplicatus Doppelbild">
+<Probe>KL/CH/GE</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Illusion</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Objektverdoppelung</Variante>
+<Variante>Spiegelkabinett</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Dämonenbann">
+<Probe>MU/CH/KO</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Antimagie</Merkmal>
+<Merkmal>Dämonisch</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Andere Domäne</Variante>
+<Variante>Zone</Variante>
+<Variante>Bannkreis</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Ecliptifactus Schattenkraft">
+<Probe>MU/KL/KO</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Dämonisch</Merkmal>
+<Merkmal>Form</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Langer Schatten</Variante>
+<Variante>Schattensprung</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Eigenschaft wiederherstellen">
+<Probe>KL/IN/CH</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Antimagie</Merkmal>
+<Merkmal>Eigenschaften</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Zone</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Eigne Ängste quälen dich!">
+<Probe>MU/IN/CH</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Einfluss</Merkmal>
+<Merkmal>Eigenschaften</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Sinnenraub</Variante>
+<Variante>Magiegespür rauben</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Einfluss bannen">
+<Probe>IN/CH/CH</Probe>
+<Komplexität>B</Komplexität>
+<Merkmale>
+<Merkmal>Antimagie</Merkmal>
+<Merkmal>Einfluss</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Zone</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Eins mit der Natur">
+<Probe>IN/GE/KO</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Eigenschaften</Merkmal>
+<Merkmal>Elementar</Merkmal>
+</Merkmale>
+</Zauber>
+<Zauber ID="Eisenrost und Patina">
+<Probe>KL/CH/GE</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Objekt</Merkmal>
+<Merkmal>Temporal</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Rostträger</Variante>
+<Variante>Satinavs Hörner</Variante>
+<Variante>Rostfalle</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Eiseskälte Kämpferherz">
+<Probe>MU/IN/KO</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Eigenschaften</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Reichweite</Variante>
+<Variante>andere Person verzaubern</Variante>
+<Variante>Berserker</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Elementarbann">
+<Probe>IN/CH/KO</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Elementar</Merkmal>
+<Merkmal>Antimagie</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Mindergeister bannen</Variante>
+<Variante>Zone</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Elementarer Diener">
+<Probe>MU/KL/CH</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Elementar</Merkmal>
+<Merkmal>Herbeirufung</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Kosten</Variante>
+<Variante>Zielobjekt</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Elfenstimme Flötenton">
+<Probe>IN/CH/KO</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Verständigung</Merkmal>
+</Merkmale>
+</Zauber>
+<Zauber ID="Erinnerung verlasse dich!">
+<Probe>MU/IN/CH</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Herrschaft</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Exposami Lebenskraft">
+<Probe>KL/IN/IN</Probe>
+<Komplexität>B</Komplexität>
+<Merkmale>
+<Merkmal>Hellsicht</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Tierart</Variante>
+<Variante>Suche</Variante>
+<Variante>Reinheit der Aura</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Falkenauge Meisterschuss">
+<Probe>IN/FF/GE</Probe>
+<Komplexität>B</Komplexität>
+<Merkmale>
+<Merkmal>Eigenschaften</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Das bleibende Band</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Favilludo Funkentanz">
+<Probe>IN/CH/FF</Probe>
+<Komplexität>A</Komplexität>
+<Merkmale>
+<Merkmal>Illusion</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Subtiles Leuchten</Variante>
+<Variante>Leuchtender Panzer</Variante>
+<Variante>Katzengold</Variante>
+<Variante>Hypnotischer Wirbel</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Firnlauf">
+<Probe>MU/KL/GE</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Elementar (Eis)</Merkmal>
+<Merkmal>Eigenschaften</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Eisspinne</Variante>
+<Variante>Verankerung</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Flim Flam Funkel">
+<Probe>KL/KL/FF</Probe>
+<Komplexität>A</Komplexität>
+<Merkmale>
+<Merkmal>Umwelt</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Andere Farbe</Variante>
+<Variante>Pulsierendes Licht</Variante>
+<Variante>Lichtkegel</Variante>
+<Variante>Variable Helligkeit</Variante>
+<Variante>Bewegliche Lichtkugel</Variante>
+<Variante>Irrwisch</Variante>
+<Variante>Lichtblitz</Variante>
+<Variante>Leuchtturm</Variante>
+<Variante>Immerlicht</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Fluch der Pestilenz">
+<Probe>MU/KL/CH</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Dämonisch (Mishkhara)</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Kosten</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Einzelfall</Variante>
+<Variante>Fernverfluchung</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Foramen Foraminor">
+<Probe>KL/KL/FF</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Hellsicht</Merkmal>
+<Merkmal>Telekinese</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Merfachschlüssel</Variante>
+<Variante>Contra-Claudibus</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Fortifex arkane Wand">
+<Probe>IN/KO/KK</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Umwelt</Merkmal>
+<Merkmal>Elementar (Erz)</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Bewegliche Wand</Variante>
+<Variante>Schimmernder Schild</Variante>
+<Variante>Schwebende Wand</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Fulminictus Donnerkeil">
+<Probe>IN/GE/KO</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Schaden</Merkmal>
+<Merkmal>Kraft</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Welle des Schmerzes</Variante>
+<Variante>Welle der Reinigung</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Gardianum Zauberschild">
+<Probe>KL/IN/KO</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Antimagie</Merkmal>
+<Merkmal>Kraft</Merkmal>
+<Merkmal>Metamagie</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Schild gegen Dämonen</Variante>
+<Variante>Schild gegen Zauber</Variante>
+<Variante>Persönlicher Schild</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Gedankenbilder Elfenruf">
+<Probe>KL/IN/CH</Probe>
+<Komplexität>B</Komplexität>
+<Merkmale>
+<Merkmal>Verständigung</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Bestimmter Empfänger</Variante>
+<Variante>Kreis der Eingeweihten</Variante>
+<Variante>Sinneseindrücke</Variante>
+<Variante>Kontakt</Variante>
+<Variante>Illusionen</Variante>
+<Variante>Erzwungene Botschaft</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Gefunden!">
+<Probe>KL/IN/GE</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Hellsicht</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Erzwingen</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Gefäß der Jahre ">
+<Probe>MU/KL/KO</Probe>
+<Komplexität>E</Komplexität>
+<Merkmale>
+<Merkmal>Beschwörung</Merkmal>
+<Merkmal>Form</Merkmal>
+<Merkmal>Temporal</Merkmal>
+</Merkmale>
+</Zauber>
+<Zauber ID="Geisterbann">
+<Probe>MU/MU/CH</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Antimagie</Merkmal>
+<Merkmal>Geisterwesen</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Erzwingen</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Langfristige Bannung</Variante>
+<Variante>Zone</Variante>
+<Variante>Permanente Bannung</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Geisterruf">
+<Probe>MU/MU/CH</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Geisterwesen</Merkmal>
+<Merkmal>Herbeirufung</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Bestimmter Geist</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Gletscherwand">
+<Probe>MU/KL/CH</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Elementar (Eis)</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Hohe Wand</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Granit und Marmor">
+<Probe>MU/CH/KO</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Form</Merkmal>
+<Merkmal>Elementar (Erz)</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Langsame Versteinerung</Variante>
+<Variante>Statuenträume</Variante>
+<Variante>Permanenz</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Große Gier">
+<Probe>KL/KL/CH</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Einfluss</Merkmal>
+<Merkmal>Herrschaft</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Kosten</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Große Verwirrung">
+<Probe>KL/KL/CH</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Eigenschaften</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Kosten</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Dumm oder schwerfällig</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Halluzination">
+<Probe>KL/IN/CH</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Herrschaft</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Wechselnde Eindrücke</Variante>
+<Variante>Traumbilder</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Harmlose Gestalt">
+<Probe>KL/CH/GE</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Einfluss</Merkmal>
+<Merkmal>Illusion</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Hartes schmelze!">
+<Probe>MU/KL/KK</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Objekt</Merkmal>
+<Merkmal>Elementar (Wasser)</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Haselbusch und Ginsterkraut">
+<Probe>CH/FF/KO</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Eigenschaften</Merkmal>
+<Merkmal>Elementar (Humus)</Merkmal>
+<Merkmal>Form</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Schnelles Wachstum</Variante>
+<Variante>Schnelle Blüte</Variante>
+<Variante>Dauerhafte From</Variante>
+<Variante>Schnelle Schlinge</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Heilkraft bannen">
+<Probe>KL/CH/FF</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Antimagie</Merkmal>
+<Merkmal>Heilung</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Zone</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Hellsicht trüben">
+<Probe>KL/IN/CH</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Antimagie</Merkmal>
+<Merkmal>Hellsicht</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Klarsicht</Variante>
+<Variante>Zone</Variante>
+<Variante>Aura</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Herbeirufung vereiteln">
+<Probe>MU/IN/CH</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Herbeirufung</Merkmal>
+<Merkmal>Antimagie</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Zone</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Herr über das Tierreich">
+<Probe>MU/MU/CH</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Herrschaft</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Kosten</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Herr über die Monstren</Variante>
+<Variante>Herr der Fliegen</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Herzschlag ruhe">
+<Probe>MU/CH/KK</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Dämonisch (Blakharaz)</Merkmal>
+<Merkmal>Eigenschaften</Merkmal>
+<Merkmal>Einfluss</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Reichweite</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Hexenblick">
+<Probe>IN/IN/CH</Probe>
+<Komplexität>B</Komplexität>
+<Merkmale>
+<Merkmal>Verständigung</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Blickloser Blick</Variante>
+<Variante>Spiegelblick</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Hexengalle">
+<Probe>MU/IN/CH</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Schaden</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Hexenleim</Variante>
+<Variante>Krötenschweiß</Variante>
+<Variante>Drachenspeichel</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Hexenholz">
+<Probe>KL/FF/KK</Probe>
+<Komplexität>B</Komplexität>
+<Merkmale>
+<Merkmal>Telekinese</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Verzaubern mehrerer Objekte</Variante>
+<Variante>Hölzerner Diener</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Hexenknoten ">
+<Probe>KL/IN/CH</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Einfluss</Merkmal>
+<Merkmal>Illusion</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Hexenkrallen">
+<Probe>MU/IN/KO</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Eigenschaften</Merkmal>
+<Merkmal>Form</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Zwanzig Krallen</Variante>
+<Variante>Verborgene Kralle</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Hexenspeichel">
+<Probe>IN/CH/FF</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Heilung</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Zielobjekt</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Hilfreiche Tatze, rettende Schwinge">
+<Probe>MU/IN/CH</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Einfluss</Merkmal>
+<Merkmal>Verständigung</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Reichweite</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Holterdipolter">
+<Probe>IN/IN/FF</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Umwelt</Merkmal>
+</Merkmale>
+</Zauber>
+<Zauber ID="Horriphobus Schreckgestalt">
+<Probe>MU/IN/CH</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Einfluss</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Kosten</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Höllenpein zerreiße dich!">
+<Probe>KL/CH/KO</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Einfluss</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Reichweite</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Ignifaxius Flammenstrahl">
+<Probe>KL/FF/KO</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Schaden</Merkmal>
+<Merkmal>Elementar (Feuer)</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Kegel</Variante>
+<Variante>Enger Strahl</Variante>
+<Variante>Mehrere Ziele</Variante>
+<Variante>Doppelschuss</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Ignisphaero Feuerball">
+<Probe>MU/IN/KO</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Telekinese</Merkmal>
+<Merkmal>Elementar (Feuer)</Merkmal>
+<Merkmal>Schaden</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Komplexe Bewegung</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Ignorantia Ungesehn">
+<Probe>IN/CH/GE</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Einfluss</Merkmal>
+<Merkmal>Illusion</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Illusion auflösen">
+<Probe>KL/IN/CH</Probe>
+<Komplexität>B</Komplexität>
+<Merkmale>
+<Merkmal>Antimagie</Merkmal>
+<Merkmal>Illusion</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Zone</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Immortalis Lebenszeit">
+<Probe>MU/CH/KO</Probe>
+<Komplexität>F</Komplexität>
+<Merkmale>
+<Merkmal>Form</Merkmal>
+<Merkmal>Temporal</Merkmal>
+</Merkmale>
+</Zauber>
+<Zauber ID="Imperavi Handlungszwang">
+<Probe>KL/CH/CH</Probe>
+<Komplexität>E</Komplexität>
+<Merkmale>
+<Merkmal>Herrschaft</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Auslöser</Variante>
+<Variante>Befehl und Gehorsam</Variante>
+<Variante>Dauerhafter Diener</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Impersona Maskenbild">
+<Probe>KL/IN/FF</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Illusion</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Karikatur</Variante>
+<Variante>Mal tarnen</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Infinitum Immerdar">
+<Probe>KL/CH/KO</Probe>
+<Komplexität>F</Komplexität>
+<Merkmale>
+<Merkmal>Metamagie</Merkmal>
+<Merkmal>Temporal</Merkmal>
+</Merkmale>
+</Zauber>
+<Zauber ID="Invercano Spiegeltrick">
+<Probe>MU/IN/FF</Probe>
+<Komplexität>F</Komplexität>
+<Merkmale>
+<Merkmal>Antimagie</Merkmal>
+<Merkmal>Kraft</Merkmal>
+<Merkmal>Metamagie</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Zusätzliches Merkmal</Variante>
+<Variante>Silberschild</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Invocatio maior">
+<Probe>MU/MU/CH</Probe>
+<Komplexität>E</Komplexität>
+<Merkmale>
+<Merkmal>Beschwörung</Merkmal>
+<Merkmal>Dämonisch</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Mehrere Dämonen</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Invocatio minor">
+<Probe>MU/MU/CH</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Beschwörung</Merkmal>
+<Merkmal>Dämonisch</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Mehrere Dämonen</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Iribaars Hand">
+<Probe>MU/MU/IN</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Einfluss</Merkmal>
+<Merkmal>Schaden</Merkmal>
+<Merkmal>Dämonisch (Amazeroth)</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Juckreiz, dämlicher!">
+<Probe>MU/IN/CH</Probe>
+<Komplexität>B</Komplexität>
+<Merkmale>
+<Merkmal>Einfluss</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zielobjekt</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Karnifilo Raserei">
+<Probe>MU/IN/CH</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Einfluss</Merkmal>
+<Merkmal>Eigenschaften</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Blutrausch</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Katzenaugen">
+<Probe>KL/FF/KO</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Eigenschaften</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Klarum Purum">
+<Probe>KL/KL/CH</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Form</Merkmal>
+<Merkmal>Heilung</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Schutz vor Vergiftung</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Klickeradomms">
+<Probe>KL/FF/KK</Probe>
+<Komplexität>A</Komplexität>
+<Merkmale>
+<Merkmal>Telekinese</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Reichweite</Variante>
+<Variante>Scherbenhaufen</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Koboldgeschenk">
+<Probe>IN/CH/FF</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Herrschaft</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zielobjekt</Variante>
+<Variante>Feengold</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Koboldovision">
+<Probe>MU/CH/CH</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Hellsicht</Merkmal>
+<Merkmal>Limbus</Merkmal>
+</Merkmale>
+</Zauber>
+<Zauber ID="Komm Kobold Komm">
+<Probe>IN/IN/CH</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Herbeirufung</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Namensruf</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Krabbelnder Schrecken">
+<Probe>MU/MU/CH</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Herbeirufung</Merkmal>
+<Merkmal>Dämonisch (Mishkhara)</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Kraft des Erzes">
+<Probe>KL/KO/KK</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Elementar (Erz)</Merkmal>
+<Merkmal>Objekt</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Reichweite</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Krähenruf">
+<Probe>MU/CH/CH</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Einfluss</Merkmal>
+<Merkmal>Herbeirufung</Merkmal>
+<Merkmal>Limbus</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Fledermausruf</Variante>
+<Variante>Spinnenruf </Variante>
+<Variante>Schlangenruf</Variante>
+<Variante>Hornissenruf</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Krötensprung">
+<Probe>IN/GE/KK</Probe>
+<Komplexität>B</Komplexität>
+<Merkmale>
+<Merkmal>Eigenschaften</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Krötengang</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Kulminatio Kugelblitz">
+<Probe>MU/IN/FF</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Schaden</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Außer Sicht</Variante>
+<Variante>Schneller Kugelblitz</Variante>
+<Variante>Wächter</Variante>
+<Variante>Doppelblitz</Variante>
+<Variante>Wolke von A`Tall</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Kusch!">
+<Probe>MU/IN/CH</Probe>
+<Komplexität>B</Komplexität>
+<Merkmale>
+<Merkmal>Einfluss</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Erzwingen</Variante>
+<Variante>Weg! Alle weg!</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Körperlose Reise">
+<Probe>MU/KL/IN</Probe>
+<Komplexität>E</Komplexität>
+<Merkmale>
+<Merkmal>Limbus</Merkmal>
+<Merkmal>Verständigung</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Kosten</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Manifestation</Variante>
+<Variante>Fernzauber</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Lach dich gesund">
+<Probe>IN/CH/CH</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Heilung</Merkmal>
+<Merkmal>Einfluss</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Tanz dich wach</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Lachkrampf">
+<Probe>CH/CH/FF</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Einfluss</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zielobjekt</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Schluckauf</Variante>
+<Variante>Blähungen</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Langer Lulatsch">
+<Probe>CH/GE/KK</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Form</Merkmal>
+<Merkmal>Objekt</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zielobjekt</Variante>
+<Variante>Langfinger - Wurstfinger</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Last des Alters">
+<Probe>IN/CH/KO</Probe>
+<Komplexität>E</Komplexität>
+<Merkmale>
+<Merkmal>Temporal</Merkmal>
+<Merkmal>Form</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Verschrumpelte Glieder</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Leib der Erde">
+<Probe>MU/IN/GE</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Form</Merkmal>
+<Merkmal>Elementar (Humus)</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Ausgedehnte Aura</Variante>
+<Variante>Durch Erde und Holz</Variante>
+<Variante>Heilkraft des Humus</Variante>
+<Variante>Begleiter</Variante>
+<Variante>Leib aus Holz</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Leib der Wogen">
+<Probe>MU/KL/GE</Probe>
+<Komplexität>E</Komplexität>
+<Merkmale>
+<Merkmal>Form</Merkmal>
+<Merkmal>Elementar (Wasser)</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Ausgedehnte Aura</Variante>
+<Variante>Durch Wasser und durch See</Variante>
+<Variante>Begleiter</Variante>
+<Variante>Leib aus Wasser</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Leib des Eises">
+<Probe>MU/KL/GE</Probe>
+<Komplexität>E</Komplexität>
+<Merkmale>
+<Merkmal>Form</Merkmal>
+<Merkmal>Elementar (Eis)</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Kältebann</Variante>
+<Variante>Ausgedehnte Aura</Variante>
+<Variante>Durch Eis und Schnee</Variante>
+<Variante>Begleiter</Variante>
+<Variante>Leib aus Eis</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Leib des Erzes">
+<Probe>MU/GE/KK</Probe>
+<Komplexität>E</Komplexität>
+<Merkmale>
+<Merkmal>Form</Merkmal>
+<Merkmal>Elementar (Erz)</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Ausgedehnte Aura</Variante>
+<Variante>Durch Fels und Erz</Variante>
+<Variante>Begleiter</Variante>
+<Variante>Leib aus Erz</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Leib des Feuers">
+<Probe>MU/MU/GE</Probe>
+<Komplexität>E</Komplexität>
+<Merkmale>
+<Merkmal>Form</Merkmal>
+<Merkmal>Elementar (Feuer)</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Feuerbann</Variante>
+<Variante>Ausgedehnte Aura</Variante>
+<Variante>Durch Glut und Lohe</Variante>
+<Variante>Begleiter</Variante>
+<Variante>Leib aus Feuer</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Leib des Windes ">
+<Probe>MU/GE/KK</Probe>
+<Komplexität>E</Komplexität>
+<Merkmale>
+<Merkmal>Form</Merkmal>
+<Merkmal>Elementar (Luft)</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Ausgedehnte Aura</Variante>
+<Variante>Mit dem Wind, in Sternenhöh</Variante>
+<Variante>Begleiter</Variante>
+<Variante>Leib aus Luft</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Leidensbund">
+<Probe>MU/IN/KO</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Heilung</Merkmal>
+<Merkmal>Verständigung</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Heilender Dritter</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Levthans Feuer">
+<Probe>IN/CH/CH</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Einfluss</Merkmal>
+<Merkmal>Verständigung</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Erzwingen</Variante>
+<Variante>Zielobjekt</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Limbus versiegeln">
+<Probe>KL/IN/KO</Probe>
+<Komplexität>E</Komplexität>
+<Merkmale>
+<Merkmal>Antimagie</Merkmal>
+<Merkmal>Limbus</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Zone</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Lockruf und Feenfüße">
+<Probe>IN/CH/FF</Probe>
+<Komplexität>B</Komplexität>
+<Merkmale>
+<Merkmal>Telekinese</Merkmal>
+<Merkmal>Illusion</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Da lang!</Variante>
+<Variante>Husch, husch</Variante>
+<Variante>Erbsenparade</Variante>
+<Variante>Feenflügel</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Lunge des Leviatan">
+<Probe>IN/CH/KO</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Heilung</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Reichweite</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Madas Spiegel">
+<Probe>MU/KL/IN</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Verständigung</Merkmal>
+<Merkmal>Hellsicht</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Kosten</Variante>
+<Variante>Wirkungsdauer</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Magischer Raub">
+<Probe>MU/KL/KO</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Kraft</Merkmal>
+<Merkmal>Verständigung</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Freiwilliger Spender</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Mahlstrom">
+<Probe>MU/IN/KK</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Elementar (Wasser)</Merkmal>
+<Merkmal>Umwelt</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Manifesto Element">
+<Probe>KL/IN/CH</Probe>
+<Komplexität>A</Komplexität>
+<Merkmale>
+<Merkmal>Elementar</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Demanifesto</Variante>
+<Variante>Wirkungsdauer</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Meister der Elemente">
+<Probe>MU/KL/CH</Probe>
+<Komplexität>F</Komplexität>
+<Merkmale>
+<Merkmal>Elementar</Merkmal>
+<Merkmal>Herbeirufung</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Kosten</Variante>
+<Variante>Binden</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Meister minderer Geister">
+<Probe>MU/CH/CH</Probe>
+<Komplexität>B</Komplexität>
+<Merkmale>
+<Merkmal>Herbeirufung</Merkmal>
+</Merkmale>
+</Zauber>
+<Zauber ID="Memorabia Falsifir">
+<Probe>KL/IN/CH</Probe>
+<Komplexität>E</Komplexität>
+<Merkmale>
+<Merkmal>Herrschaft</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Falsche Erinnerung</Variante>
+<Variante>Permanenz</Variante>
+<Variante>Mnemosynthese</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Memorans Gedächtniskraft">
+<Probe>KL/KL/IN</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Hellsicht</Merkmal>
+<Merkmal>Eigenschaften</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Anderer Sinn</Variante>
+<Variante>Drachengedächtnis</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Menetekel Flammenschrift">
+<Probe>KL/CH/FF</Probe>
+<Komplexität>B</Komplexität>
+<Merkmale>
+<Merkmal>Illusion</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Variiertes Aussehen</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Metamagie neutralisieren">
+<Probe>KL/KL/KO</Probe>
+<Komplexität>F</Komplexität>
+<Merkmale>
+<Merkmal>Antimagie</Merkmal>
+<Merkmal>Metamagie</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Zone</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Metamorpho Gletscherform">
+<Probe>KL/FF/KK</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Elementar (Eis)</Merkmal>
+<Merkmal>Objekt</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Kosten</Variante>
+<Variante>Schnee zu Eis</Variante>
+<Variante>Wasser zu Eis</Variante>
+<Variante>Eisspeer</Variante>
+<Variante>Permanente Form</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Motoricus ">
+<Probe>KL/FF/KK</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Telekinese</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Telemanipulation</Variante>
+<Variante>Verbiegen</Variante>
+<Variante>Unsichtbarer Hieb</Variante>
+<Variante>Rote und Weiße Kamele</Variante>
+<Variante>Fesselfeld</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Movimento Dauerlauf">
+<Probe>IN/GE/KO</Probe>
+<Komplexität>A</Komplexität>
+<Merkmale>
+<Merkmal>Eigenschaften</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Wie ein Fisch</Variante>
+<Variante>Grenzenlose Ausdauer</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Murks und Patz">
+<Probe>IN/IN/FF</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Einfluss</Merkmal>
+</Merkmale>
+</Zauber>
+<Zauber ID="Nackedei">
+<Probe>KL/IN/FF</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Objekt</Merkmal>
+<Merkmal>Telekinese</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zielobjekt</Variante>
+<Variante>Absatteln</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Nebelleib">
+<Probe>MU/IN/KO</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Form</Merkmal>
+<Merkmal>Elementar (Luft)</Merkmal>
+<Merkmal>Elementar (Wasser)</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Wirkungsdauer</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Nebelwand und Morgendunst">
+<Probe>KL/FF/KO</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Umwelt</Merkmal>
+<Merkmal>Elementar (Wasser)</Merkmal>
+<Merkmal>Elementar (Luft)</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Dunst</Variante>
+<Variante>Bewegliche Nebelwolke</Variante>
+<Variante>Geisternebel</Variante>
+<Variante>Nebelbilder</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Nekropathia Seelenreise">
+<Probe>MU/KL/CH</Probe>
+<Komplexität>E</Komplexität>
+<Merkmale>
+<Merkmal>Geisterwesen</Merkmal>
+<Merkmal>Verständigung</Merkmal>
+</Merkmale>
+</Zauber>
+<Zauber ID="Nihilogravo Schwerelos">
+<Probe>KL/KO/KK</Probe>
+<Komplexität>E</Komplexität>
+<Merkmale>
+<Merkmal>Umwelt</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Leicht und Beweglich</Variante>
+<Variante>Zaubern wie im Fluge</Variante>
+<Variante>Levitation</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Nuntiovolo Botenvogel">
+<Probe>MU/KL/CH</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Beschwörung</Merkmal>
+<Merkmal>Dämonisch (Lolgramoth)</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Hohe Loyalität</Variante>
+<Variante>Hohe Tragkraft</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Objecto Obscuro">
+<Probe>KL/FF/KO</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Objekt</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Reichweite</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Objectofixo">
+<Probe>KL/KL/KK</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Objekt</Merkmal>
+<Merkmal>Temporal</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Bilderhaken</Variante>
+<Variante>Spinnenfest</Variante>
+<Variante>Lufthaken</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Objectovoco">
+<Probe>KL/IN/CH</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Verständigung</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Wirkungsdauer</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Objekt entzaubern">
+<Probe>KL/IN/FF</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Antimagie</Merkmal>
+<Merkmal>Objekt</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Zone</Variante>
+<Variante>Objektschutz</Variante>
+<Variante>Gesteigerter Objektschutz</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Oculus Astralis">
+<Probe>KL/IN/CH</Probe>
+<Komplexität>E</Komplexität>
+<Merkmale>
+<Merkmal>Hellsicht</Merkmal>
+<Merkmal>Kraft</Merkmal>
+<Merkmal>Metamagie</Merkmal>
+<Merkmal>Limbus</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Kosten</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Odem Arcanum">
+<Probe>KL/IN/IN</Probe>
+<Komplexität>A</Komplexität>
+<Merkmale>
+<Merkmal>Hellsicht</Merkmal>
+<Merkmal>Kraft</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Sichtbereich</Variante>
+<Variante>Umgebung</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Pandaemonium">
+<Probe>MU/MU/CH</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Beschwörung</Merkmal>
+<Merkmal>Dämonisch</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Panik überkomme euch!">
+<Probe>MU/CH/CH</Probe>
+<Komplexität>E</Komplexität>
+<Merkmale>
+<Merkmal>Einfluss</Merkmal>
+<Merkmal>Dämonisch (Amazeroth)</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Objekt</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Papperlapapp">
+<Probe>IN/IN/FF</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Einfluss</Merkmal>
+</Merkmale>
+</Zauber>
+<Zauber ID="Paralysis starr wie Stein">
+<Probe>IN/CH/KK</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Form</Merkmal>
+<Merkmal>Elementar (Erz)</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Erzwingen</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Pectetondo Zauberhaar">
+<Probe>KL/CH/FF</Probe>
+<Komplexität>B</Komplexität>
+<Merkmale>
+<Merkmal>Form</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Farbtopf</Variante>
+<Variante>Ohne Kamm</Variante>
+<Variante>Winterpelz und Katzenfell</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Penetrizzel Tiefenblick">
+<Probe>KL/KL/KO</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Hellsicht</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Zaubertunnel</Variante>
+<Variante>Zusätzlicher Sinn</Variante>
+<Variante>Durchdringender Blick</Variante>
+<Variante>Alternativer Sinn</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Pentagramma Sphärenbann">
+<Probe>MU/MU/CH</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Antimagie</Merkmal>
+<Merkmal>Beschwörung</Merkmal>
+<Merkmal>Dämonisch</Merkmal>
+<Merkmal>Geisterwesen</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Reichweite</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Pestilenz erspüren">
+<Probe>KL/IN/CH</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Hellsicht</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Gift Entdecken</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Pfeil der Luft">
+<Probe>KL/IN/CH</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Elementar (Luft)</Merkmal>
+<Merkmal>Objekt</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Speer</Variante>
+<Variante>Bolzen</Variante>
+<Variante>Permanenz</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Pfeil des Eises">
+<Probe>KL/IN/CH</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Elementar (Eis)</Merkmal>
+<Merkmal>Objekt</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Speer</Variante>
+<Variante>Bolzen</Variante>
+<Variante>Permanenz</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Pfeil des Erzes">
+<Probe>KL/IN/CH</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Elementar (Erz)</Merkmal>
+<Merkmal>Objekt</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Speer</Variante>
+<Variante>Bolzen</Variante>
+<Variante>Permanenz</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Pfeil des Feuers">
+<Probe>KL/IN/CH</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Elementar (Feuer)</Merkmal>
+<Merkmal>Objekt</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Speer</Variante>
+<Variante>Bolzen</Variante>
+<Variante>Permanenz</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Pfeil des Humus">
+<Probe>KL/IN/CH</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Elementar (Humus)</Merkmal>
+<Merkmal>Objekt</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Speer</Variante>
+<Variante>Bolzen</Variante>
+<Variante>Permanenz</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Pfeil des Wassers">
+<Probe>KL/IN/CH</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Elementar (Wasser)</Merkmal>
+<Merkmal>Objekt</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Speer</Variante>
+<Variante>Bolzen</Variante>
+<Variante>Permanenz</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Planastrale Anderwelt ">
+<Probe>MU/MU/KO</Probe>
+<Komplexität>F</Komplexität>
+<Merkmale>
+<Merkmal>Limbus</Merkmal>
+</Merkmale>
+</Zauber>
+<Zauber ID="Plumbumbarum schwerer Arm">
+<Probe>CH/GE/KK</Probe>
+<Komplexität>B</Komplexität>
+<Merkmale>
+<Merkmal>Einfluss</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Demotivation</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Projektimago Ebenbild">
+<Probe>MU/IN/CH</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Illusion</Merkmal>
+<Merkmal>Verständigung</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Ohne Bild</Variante>
+<Variante>Leuchtendes Bild</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Protectionis Kontrabann">
+<Probe>KL/CH/KO</Probe>
+<Komplexität>F</Komplexität>
+<Merkmale>
+<Merkmal>Antimagie</Merkmal>
+<Merkmal>Metamagie</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Austreibung verhindern</Variante>
+<Variante>Antimagische Zone</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Psychostabilis">
+<Probe>MU/KL/KO</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Antimagie</Merkmal>
+<Merkmal>Eigenschaften</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Selbstanwendung</Variante>
+<Variante>Kleine Stabilisierung</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Gegenzauber</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Radau">
+<Probe>MU/CH/KO</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Elementar (Luft)</Merkmal>
+<Merkmal>Telekinese</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Reichweite</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Reflectimago Spiegelschein">
+<Probe>KL/CH/FF</Probe>
+<Komplexität>B</Komplexität>
+<Merkmale>
+<Merkmal>Illusion</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Handspiegel</Variante>
+<Variante>Wandspiegel</Variante>
+<Variante>Spiegelsaal</Variante>
+<Variante>Optick-Trick</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Reptilea Natternnest">
+<Probe>MU/IN/CH</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Herbeirufung</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Selemer Verhältnisse</Variante>
+<Variante>Krötenkunde</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Respondami Warheitszwang">
+<Probe>MU/IN/CH</Probe>
+<Komplexität>B</Komplexität>
+<Merkmale>
+<Merkmal>Herrschaft</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Fragenkatalog</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Reversalis Revidum">
+<Probe>KL/IN/CH</Probe>
+<Komplexität>E</Komplexität>
+<Merkmale>
+<Merkmal>Metamagie</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Ruhe Körper, ruhe Geist">
+<Probe>KL/CH/KO</Probe>
+<Komplexität>B</Komplexität>
+<Merkmale>
+<Merkmal>Heilung</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Salander Mutander">
+<Probe>KL/CH/KO</Probe>
+<Komplexität>E</Komplexität>
+<Merkmale>
+<Merkmal>Form</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Reichweite</Variante>
+<Variante>längere Verwandlung</Variante>
+<Variante>permanente Verwandlung</Variante>
+<Variante>Bärenfell und Froschschenkel</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Sanftmut">
+<Probe>MU/CH/CH</Probe>
+<Komplexität>B</Komplexität>
+<Merkmale>
+<Merkmal>Einfluss</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Kosten</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Sapefacta Zauberschwamm">
+<Probe>KL/CH/FF</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Telekinese</Merkmal>
+<Merkmal>Elementar (Luft)</Merkmal>
+<Merkmal>Elementar (Wasser)</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Stiefelputzer</Variante>
+<Variante>Läusekamm</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Satuarias Herrlichkeit">
+<Probe>IN/CH/CH</Probe>
+<Komplexität>B</Komplexität>
+<Merkmale>
+<Merkmal>Eigenschaften</Merkmal>
+<Merkmal>Illusion</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Kosten</Variante>
+<Variante>Wirkungsdauer</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Schabernack">
+<Probe>KL/IN/CH</Probe>
+<Komplexität>B</Komplexität>
+<Merkmale>
+<Merkmal>Einfluss</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zielobjekt</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Schadenszauber bannen">
+<Probe>MU/IN/KO</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Antimagie</Merkmal>
+<Merkmal>Schaden</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Zone</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Schelmenkleister">
+<Probe>IN/GE/FF</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Umwelt</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Reichweite</Variante>
+<Variante>Schelmenschleim</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Schelmenlaune">
+<Probe>MU/IN/CH</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Einfluss</Merkmal>
+</Merkmale>
+</Zauber>
+<Zauber ID="Schelmenmaske">
+<Probe>IN/CH/GE</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Illusion</Merkmal>
+</Merkmale>
+</Zauber>
+<Zauber ID="Schelmenrausch">
+<Probe>IN/CH/CH</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Einfluss</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zielobjekt</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Schleier der Unwissenheit">
+<Probe>KL/KL/FF</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Eigenschaften</Merkmal>
+<Merkmal>Metamagie</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Reichweite</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Schwarz und Rot">
+<Probe>MU/CH/KO</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Eigenschaften</Merkmal>
+<Merkmal>Schaden</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Schwarzer Schrecken">
+<Probe>MU/IN/CH</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Einfluss</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Farbenfroher Terror</Variante>
+<Variante>Vielformiges Grauen</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Seelentier erkennen">
+<Probe>IN/IN/CH</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Hellsicht</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Seelenwanderung">
+<Probe>MU/CH/KO</Probe>
+<Komplexität>F</Komplexität>
+<Merkmale>
+<Merkmal>Eigenschaften</Merkmal>
+<Merkmal>Verständigung</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Haut des Tiers</Variante>
+<Variante>Seelentausch</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Seidenweich Schuppengleich">
+<Probe>IN/FF/FF</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Illusion</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zähneknirschen</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Seidenzunge Elfenwort">
+<Probe>KL/IN/CH</Probe>
+<Komplexität>B</Komplexität>
+<Merkmale>
+<Merkmal>Einfluss</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Reichweite</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Sensattacco Meisterstreich">
+<Probe>MU/IN/GE</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Eigenschaften</Merkmal>
+<Merkmal>Hellsicht</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Sensibar Empathicus">
+<Probe>KL/IN/CH</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Hellsicht</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Kosten</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Massensinn</Variante>
+<Variante>Tierempathi</Variante>
+<Variante>Artefaktempathie</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Serpentialis Schlangenleib">
+<Probe>MU/CH/GE</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Form</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Fadenvipern</Variante>
+<Variante>Schlangenhaar</Variante>
+<Variante>Beißender Schwanz</Variante>
+<Variante>Schlangengriff</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Silentium">
+<Probe>KL/IN/CH</Probe>
+<Komplexität>B</Komplexität>
+<Merkmale>
+<Merkmal>Umwelt</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Psst!</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Sinesigil unerkannt">
+<Probe>KL/IN/FF</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Illusion</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Beliebige Körperstelle</Variante>
+<Variante>Fremde Hand</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Skelettarius">
+<Probe>MU/MU/CH</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Dämonisch (Thargunitoth)</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Unleben</Variante>
+<Variante>Kadaver</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Solidirid Weg aus Licht">
+<Probe>IN/KO/KK</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Elementar (Luft)</Merkmal>
+<Merkmal>Umwelt</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Unsichtbare Brücke</Variante>
+<Variante>Breite Brücke</Variante>
+<Variante>Bogentreppe</Variante>
+<Variante>Steg ins Nichts</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Somnigravis tiefer Schlaf">
+<Probe>KL/CH/CH</Probe>
+<Komplexität>B</Komplexität>
+<Merkmale>
+<Merkmal>Einfluss</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Kosten</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Ohnmacht</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Spinnenlauf">
+<Probe>IN/GE/KK</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Eigenschaften</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Freihändig</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Spurlos Trittlos">
+<Probe>IN/GE/GE</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Umwelt</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Zielobjekt andere Person</Variante>
+<Variante>Reichweite: Zone</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Standfest Katzengleich">
+<Probe>IN/GE/FF</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Eigenschaften</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Reichweite</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Staub wandle!">
+<Probe>MU/KL/CH</Probe>
+<Komplexität>E</Komplexität>
+<Merkmale>
+<Merkmal>Elementar (Erz)</Merkmal>
+</Merkmale>
+</Zauber>
+<Zauber ID="Stein wandle!">
+<Probe>MU/CH/KK</Probe>
+<Komplexität>E</Komplexität>
+<Merkmale>
+<Merkmal>Beschwörung</Merkmal>
+<Merkmal>Dämonisch</Merkmal>
+</Merkmale>
+</Zauber>
+<Zauber ID="Stillstand">
+<Probe>MU/IN/GE</Probe>
+<Komplexität>E</Komplexität>
+<Merkmale>
+<Merkmal>Elementar (Eis)</Merkmal>
+<Merkmal>Umwelt</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Abdämpfen</Variante>
+<Variante>Bewegliche Zone</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Sumus Elixiere">
+<Probe>IN/CH/FF</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Elementar (Humus)</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Trockenkräuter</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Tauschrausch">
+<Probe>IN/FF/KO</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Limbus</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Reichweite</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Tempus Stasis">
+<Probe>MU/KL/KK</Probe>
+<Komplexität>E</Komplexität>
+<Merkmale>
+<Merkmal>Temporal</Merkmal>
+</Merkmale>
+</Zauber>
+<Zauber ID="Tiere besprechen">
+<Probe>MU/IN/CH</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Heilung</Merkmal>
+<Merkmal>Form</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Stärken</Variante>
+<Variante>Heilen von Wunden</Variante>
+<Variante>Heilen von Krankheiten </Variante>
+<Variante>Bannen von Gift</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Tiergedanken">
+<Probe>MU/IN/CH</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Hellsicht</Merkmal>
+<Merkmal>Verständigung</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Loyalität</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Tlalucs Odem Pestgestank">
+<Probe>MU/IN/GE</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Beschwörung</Merkmal>
+<Merkmal>Dämonisch</Merkmal>
+<Merkmal>Schaden</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Miasmafaxius</Variante>
+<Variante>Miasmasphaero</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Totes handle!">
+<Probe>MU/CH/KO</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Beschwörung</Merkmal>
+<Merkmal>Dämonisch (Thargunitoth)</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Reichweite</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Transformatio Formgestalt">
+<Probe>KL/FF/KK</Probe>
+<Komplexität>E</Komplexität>
+<Merkmale>
+<Merkmal>Objekt</Merkmal>
+<Merkmal>Form</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Permanenz</Variante>
+<Variante>Ritual der Veränderung</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Transmutare Körperform">
+<Probe>CH/GE/KO</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Form</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Kosten</Variante>
+<Variante>Neue Existenz</Variante>
+<Variante>Neues Leben</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Transversalis Teleport">
+<Probe>KL/IN/KO</Probe>
+<Komplexität>E</Komplexität>
+<Merkmale>
+<Merkmal>Limbus</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Erweiterte Aura</Variante>
+<Variante>Personen mitnehmen</Variante>
+<Variante>Reichweite vergrößern</Variante>
+<Variante>Lastenteleport</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Traumgestalt">
+<Probe>IN/CH/CH</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Verständigung</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Kosten</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Marionettenspielerin</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Unberührt von Satinav">
+<Probe>KL/FF/KO</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Objekt</Merkmal>
+<Merkmal>Temporal</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Wirkungsdauer</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Unitatio Geistesbund">
+<Probe>IN/CH/KO</Probe>
+<Komplexität>B</Komplexität>
+<Merkmale>
+<Merkmal>Verständigung</Merkmal>
+<Merkmal>Kraft</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wechselnder Bundführer</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Unsichtbarer Jäger">
+<Probe>IN/FF/GE</Probe>
+<Komplexität>E</Komplexität>
+<Merkmale>
+<Merkmal>Illusion</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Unhörbar Geruchlos</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Verschwindibus">
+<Probe>IN/CH/GE</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Limbus</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zielobjekt</Variante>
+<Variante>Magischer oder geweihter Gegenstand</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Verständigung stören">
+<Probe>KL/KL/IN</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Antimagie</Merkmal>
+<Merkmal>Verständigung</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Keine Verbindung</Variante>
+<Variante>Zone</Variante>
+<Variante>Aura</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Verwandlung beenden">
+<Probe>KL/CH/FF</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Antimagie</Merkmal>
+<Merkmal>Form</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Zone</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Veränderung aufheben">
+<Probe>KL/IN/KO</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Antimagie</Merkmal>
+<Merkmal>Umwelt</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Zone</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Vipernblick">
+<Probe>MU/MU/CH</Probe>
+<Komplexität>B</Komplexität>
+<Merkmale>
+<Merkmal>Einfluss</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Visibili Vanitar">
+<Probe>KL/IN/GE</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Form</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Teilweise Unsichtbarkeit</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Vocolimbo hohler Klang">
+<Probe>KL/CH/FF</Probe>
+<Komplexität>B</Komplexität>
+<Merkmale>
+<Merkmal>Illusion</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Zeitversetzt</Variante>
+<Variante>Vox Memoriae</Variante>
+<Variante>Direktübertragung</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Vogelzwitschern Glockenspiel">
+<Probe>MU/IN/GE</Probe>
+<Komplexität>B</Komplexität>
+<Merkmale>
+<Merkmal>Illusion</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Geräusch-Orchester</Variante>
+<Variante>Spieluhr</Variante>
+<Variante>Saustall</Variante>
+<Variante>Permanenz</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Wand aus Dornen">
+<Probe>MU/KL/CH</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Elementar (Humus)</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Hohe Wand</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Wand aus Erz">
+<Probe>MU/KL/CH</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Elementar (Erz)</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Hohe Wand</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Wand aus Flammen">
+<Probe>MU/KL/CH</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Elementar (Feuer)</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Hohe Wand</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Wand aus Luft">
+<Probe>MU/KL/CH</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Elementar (Luft)</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Hohe Wand</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Warmes Blut">
+<Probe>MU/IN/IN</Probe>
+<Komplexität>B</Komplexität>
+<Merkmale>
+<Merkmal>Eigenschaften</Merkmal>
+<Merkmal>Hellsicht</Merkmal>
+<Merkmal>Elementar (Feuer)</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Wasseratem">
+<Probe>MU/KL/KO</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Form</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Aufrechterhalten</Variante>
+<Variante>Amphibium</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Wasserwand">
+<Probe>MU/KL/CH</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Elementar (Wasser)</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Hohe Wand</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Weiches erstarre!">
+<Probe>MU/KL/KK</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Elementar (Erz)</Merkmal>
+<Merkmal>Umwelt</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>spezielle Form</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Weihrauchwolke Wohlgeruch">
+<Probe>IN/CH/FF</Probe>
+<Komplexität>B</Komplexität>
+<Merkmale>
+<Merkmal>Illusion</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Geruchspender</Variante>
+<Variante>Gestank</Variante>
+<Variante>Ausgedehnte Wirkung</Variante>
+<Variante>Künstlicher Geruch</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Weisheit der Bäume ">
+<Probe>MU/IN/KO</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Form</Merkmal>
+<Merkmal>Elementar (Humus)</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Kosten</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Jederzeit zurückverwandeln</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Weiße Mähn und goldener Huf">
+<Probe>KL/IN/CH</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Beschwörung</Merkmal>
+</Merkmale>
+</Zauber>
+<Zauber ID="Wellenlauf">
+<Probe>MU/GE/GE</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Elementar (Wasser)</Merkmal>
+<Merkmal>Eigenschaften</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Gegen den Strom</Variante>
+<Variante>Wasserwand</Variante>
+<Variante>Sinken</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Wettermeisterschaft">
+<Probe>MU/CH/GE</Probe>
+<Komplexität>E</Komplexität>
+<Merkmale>
+<Merkmal>Elementar (Luft)</Merkmal>
+<Merkmal>Umwelt</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Windrichtung</Variante>
+<Variante>Zone</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Widerwille Ungemach">
+<Probe>MU/IN/GE</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Einfluss</Merkmal>
+<Merkmal>Illusion</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Ausgedehnte Wirkung</Variante>
+<Variante>Zielobjekt</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Windhose">
+<Probe>MU/IN/KK</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Elementar (Luft)</Merkmal>
+<Merkmal>Umwelt</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Wirbel steuern</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Windstille ">
+<Probe>KL/CH/KK</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Elementar (Luft)</Merkmal>
+<Merkmal>Umwelt</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Orkan zu Brise</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Wipfellauf">
+<Probe>MU/IN/GE</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Elementar (Humus)</Merkmal>
+<Merkmal>Eigenschaften</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Kopfüber</Variante>
+<Variante>Humusbote</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Xenographus Schriftenkunde">
+<Probe>KL/KL/IN</Probe>
+<Komplexität>E</Komplexität>
+<Merkmale>
+<Merkmal>Hellsicht</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Zagibu Ubigaz">
+<Probe>IN/CH/FF</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Objekt</Merkmal>
+<Merkmal>Elementar (Erz)</Merkmal>
+</Merkmale>
+</Zauber>
+<Zauber ID="Zappenduster">
+<Probe>IN/IN/FF</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Antimagie</Merkmal>
+<Merkmal>Umwelt</Merkmal>
+</Merkmale>
+</Zauber>
+<Zauber ID="Zauberklinge Geisterspeer">
+<Probe>KL/FF/KO</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Objekt</Merkmal>
+<Merkmal>Kraft</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Durstbann</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Zaubernahrung Hungerbann">
+<Probe>MU/MU/KO</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Eigenschaften</Merkmal>
+<Merkmal>Einfluss</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Kosten</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Schnellverzauberung</Variante>
+<Variante>Personalisierung</Variante>
+<Variante>Permanenz</Variante>
+<Variante>Namenssigille</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Zauberwesen der Natur">
+<Probe>MU/IN/CH</Probe>
+<Komplexität>B</Komplexität>
+<Merkmale>
+<Merkmal>Herbeirufung</Merkmal>
+<Merkmal>Verständigung</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Feenruf</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Zauberzwang">
+<Probe>MU/CH/CH</Probe>
+<Komplexität>E</Komplexität>
+<Merkmale>
+<Merkmal>Herrschaft</Merkmal>
+<Merkmal>Schaden</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+<Variante>Letzte Warnung</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Zorn der Elemente">
+<Probe>MU/CH/KO</Probe>
+<Komplexität>C</Komplexität>
+<Merkmale>
+<Merkmal>Elementar</Merkmal>
+<Merkmal>Schaden</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Kosten</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Reichweite</Variante>
+<Variante>alle Astralenergie verwenden</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Zunge lähmen">
+<Probe>MU/CH/FF</Probe>
+<Komplexität>B</Komplexität>
+<Merkmale>
+<Merkmal>Eigenschaften</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Kosten</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+</Varianten>
+</Zauber>
+<Zauber ID="Zwingtanz">
+<Probe>MU/KL/CH</Probe>
+<Komplexität>D</Komplexität>
+<Merkmale>
+<Merkmal>Herrschaft</Merkmal>
+</Merkmale>
+<Varianten>
+<Variante>Zauberdauer</Variante>
+<Variante>Erzwingen</Variante>
+<Variante>Kosten</Variante>
+<Variante>Zielobjekt</Variante>
+<Variante>Reichweite</Variante>
+<Variante>Wirkungsdauer</Variante>
+</Varianten>
+</Zauber>
+</Zaubersprüche>
+</Inhalt>
+</XDIML>
